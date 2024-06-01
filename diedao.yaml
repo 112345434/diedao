@@ -1,0 +1,13 @@
+train: "C:\\Users\\jsj_gjj\\Desktop\\train\\images"
+val: "C:\\Users\\jsj_gjj\\Desktop\\valid\\images"
+
+
+nc: 1
+names: ['fall']
+
+#roboflow:
+#  workspace: tom-mirowski-kiwmj
+#  project: updated_classes
+#  version: 1
+#  license: CC BY 4.0
+#  url: https://universe.roboflow.com/tom-mirowski-kiwmj/updated_classes/dataset/1
